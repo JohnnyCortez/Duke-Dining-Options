@@ -16,7 +16,6 @@ Display at least 10 unique resources or events in a responsive card format - com
 The following **optional** features are implemented:
 
 Add buttons or links to a related resource on each card component - completed
-Make the site responsive for both desktop and mobile formats - completed
 
 ## Video Walkthrough
 
