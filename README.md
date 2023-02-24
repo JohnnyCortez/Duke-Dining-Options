@@ -1,4 +1,4 @@
-# WEB102 Prework - Sea Monster Crowdfunding
+# Duke University Broadhead Dining Options
 
 Submitted by: Johnny A. Cortez
 
@@ -22,7 +22,7 @@ Make the site responsive for both desktop and mobile formats - completed
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/JohnnyCortez/web102_prework/blob/53795bb902c74ee37ad63a4bb48730378e793139/Animation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://github.com/JohnnyCortez/web102_prework/blob/53795bb902c74ee37ad63a4bb48730378e793139/Animation.gif](https://github.com/JohnnyCortez/Duke-Dining-Options/blob/main/Animation.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif
 
